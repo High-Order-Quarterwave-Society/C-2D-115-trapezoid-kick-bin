@@ -9,7 +9,7 @@ Other designs using the Paraflex principles where made for subwoofer and infraso
 
 
 *3D designs by Ty Cention (KaiRonex)*
-![C2-D-115 Trapezoid Kickbin]()
+![C2-D-115 Trapezoid Kickbin](https://github.com/High-Order-Quarterwave-Society/C2-D-115-trapezoid-kickbin/blob/master/C2-D-115-trapezoid-kickbin.jpg)
 
 
  #### Honereable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
