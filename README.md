@@ -12,5 +12,5 @@ Other designs using the Paraflex principles where made for subwoofer and infraso
 ![C2-D-115 Trapezoid Kickbin](https://github.com/High-Order-Quarterwave-Society/C2-D-115-trapezoid-kickbin/blob/master/C2-D-115-trapezoid-kickbin.jpg)
 
 
- #### Honereable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
+ #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.
